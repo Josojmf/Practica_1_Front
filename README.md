@@ -1,7 +1,5 @@
-# Fresh project
+# Practica 1 José María Fernaández
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
 
 ### Usage
 
