@@ -1,6 +1,5 @@
 import { FreshContext, Handlers, PageProps } from "$fresh/server.ts";
 import Axios from "npm:axios";
-
 type Results= {
     results: Character[]
 }
