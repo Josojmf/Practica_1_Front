@@ -1,4 +1,4 @@
-# Practica 1 José María Fernaández
+# Practica 1 José María Fernández
 
 
 ### Usage
